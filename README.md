@@ -24,20 +24,20 @@ A Up You Go é uma Plataforma de Integração de estágios que visa melhorar o s
 ## 💻 Layout
 
 #### Página Inicial
-![Página Inicial](/imagens/home.PNG)
+![Página Inicial](/imagens/telaInicial.PNG)
 #### Formulário de Cadastro
-![Formulário de Cadastro](/imagens/cadastro.PNG)
+![Formulário de Cadastro](/imagens/telaCadastro.PNG)
 #### Fórmulario de Login
-![Fórmulario de Login](/imagens/login.PNG)
+![Fórmulario de Login](/imagens/telaLogin.PNG)
 #### Interface para Vagas
-![Interface para Vagas](/imagens/vagas.PNG)
+![Interface para Vagas](/imagens/telaVagas.PNG)
 
 ## 🛠 Dependencias
 
-//imagem do grandle com a depende usada, e colar aqui a dependencia
+*Adicionar implementation á dependencias no build.gradle.kts*
 
 ```bash
-dependencia("")
+implementation("com.readystatesoftware.sqliteasset:sqliteassethelper:2.0.1")
 ```
 
 ## 💿 Como rodar este projeto?
@@ -58,7 +58,9 @@ $ npm run start
 ```
 ## ⚙ Base de Dados
 
-<img>
+*Protótipo simples dos dados guardados na base de dados SQLite*
+
+<img src="/imagens/bd.png" alt="Base de dados UsersDB">
 
 
 ## ⌨ Tecnologias Utilizadas
