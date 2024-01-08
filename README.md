@@ -24,13 +24,13 @@ A Up You Go é uma Plataforma de Integração de estágios que visa melhorar o s
 ## 💻 Layout
 
 #### Página Inicial
-![Página Inicial](/imagens/telaInicial.PNG)
+![Página Inicial](/imagens/telaInicial.png)
 #### Formulário de Cadastro
-![Formulário de Cadastro](/imagens/telaCadastro.PNG)
+![Formulário de Cadastro](/imagens/telaCadastro.png)
 #### Fórmulario de Login
-![Fórmulario de Login](/imagens/telaLogin.PNG)
+![Fórmulario de Login](/imagens/telaLogin.png)
 #### Interface para Vagas
-![Interface para Vagas](/imagens/telaVagas.PNG)
+![Interface para Vagas](/imagens/telaVagas.png)
 
 ## 🛠 Dependencias
 
